@@ -1,1 +1,2 @@
 # odin-recipes
+in this project i am attempting to create a website with a list of recipes to cook as well as images to go along with them. There should be multiple pages and later i will add some css to this site. Really trying to learn this stuff
